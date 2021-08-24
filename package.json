@@ -13,7 +13,7 @@
     "babel": true
   },
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.21.1",
     "timeago.js": "^3.0.2"
   },
   "devDependencies": {
